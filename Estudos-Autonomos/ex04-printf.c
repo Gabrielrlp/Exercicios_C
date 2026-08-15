@@ -17,7 +17,7 @@ void main(){
     // imprimir
     printf("%i\n", nome_da_variavel2);
     printf("%i\n", nome_da_variavel3);
-    printf("%li\n", nome_da_variavel4);
+    printf("%lu\n", nome_da_variavel4);
 
     // numeros reais
     float nome_da_variavel5 = 1.1f;
@@ -27,10 +27,18 @@ void main(){
     // imprimir
     printf("%f\n", nome_da_variavel5);
     printf("%f\n", nome_da_variavel6);
-    printf("%e\n", nome_da_variavel7);
+    printf("%e\n", (double)nome_da_variavel7);
+
+    // impressao de uma string
+    char nome[] = "Caio";
+    printf("%s\n", nome);
+
+    // impressao de um endereço de memoria
+    int a;
+    printf("%x", &a);
 
     // constante nomeada
     const int MAX = 100; // variavel constante é algo que nao podera ser auterado no decorrer do codigo, gerando erro
 
-    printf("%d\n", MAX);
+    printf("%i\n", MAX);
 }
