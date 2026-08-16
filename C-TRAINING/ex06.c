@@ -1,5 +1,3 @@
-// Faça um programa que receba uma quantidade de segundos e converta esse valor para horas, minutos e segundos.
-
 #include <stdio.h>
 
 int main(){

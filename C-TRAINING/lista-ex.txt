@@ -1,0 +1,108 @@
+Exercício 1 — Soma de dois números
+
+Faça um programa que peça ao usuário dois números inteiros e mostre na tela a soma deles.
+
+Exercício 2 — Operações básicas
+
+Faça um programa que receba dois números inteiros e mostre a soma, a subtração, a multiplicação e a divisão entre eles.
+
+Exercício 3 — Média de três notas
+
+Faça um programa que receba três notas de um aluno e calcule e mostre a média aritmética dessas notas.
+
+Exercício 4 — Conversão de temperatura
+
+Faça um programa que receba uma temperatura em Celsius e converta para Fahrenheit usando a fórmula:
+
+F = (C × 9 / 5) + 32
+
+Mostre o resultado na tela.
+
+Exercício 5 — Compra no mercado
+
+Uma pessoa comprou três produtos. Faça um programa que receba a quantidade e o preço de cada produto e calcule o valor total da compra.
+
+Exercício 6 — Conversão de segundos
+
+Faça um programa que receba uma quantidade de segundos e converta esse valor para horas, minutos e segundos.
+
+Exercício 7 — Salário do funcionário
+
+Faça um programa que receba o salário atual de um funcionário, a quantidade de horas extras trabalhadas e o valor pago por cada hora extra. Calcule e mostre o salário final.
+
+Exercício 8 — Troca de valores
+
+Faça um programa que receba dois números inteiros armazenados nas variáveis A e B. Depois, troque os valores entre elas, fazendo com que o valor de A passe para B e o valor de B passe para A.
+
+Exercício 9 — Maior de dois números
+
+Faça um programa que receba dois números e informe qual deles é maior. Caso os dois números sejam iguais, informe que eles possuem o mesmo valor.
+
+Utilize if e else.
+
+Exercício 10 — Classificação de idade
+
+Faça um programa que receba a idade de uma pessoa e informe sua classificação:
+
+De 0 a 12 anos: criança
+De 13 a 17 anos: adolescente
+De 18 a 59 anos: adulto
+60 anos ou mais: idoso
+
+Utilize if, else if e else.
+
+Exercício 11 — Antecessor e sucessor
+
+Faça um programa que receba um número inteiro e mostre na tela o seu antecessor e o seu sucessor.
+
+Exercício 12 — Área de um retângulo
+
+Faça um programa que receba a largura e a altura de um retângulo. Calcule e mostre a área e o perímetro da figura.
+
+Exercício 13 — Conversão de dinheiro
+
+Faça um programa que receba um valor em reais e a cotação do dólar. Calcule e mostre quantos dólares podem ser comprados com o valor informado.
+
+Exercício 14 — Idade em meses e dias
+
+Faça um programa que receba a idade de uma pessoa em anos e calcule aproximadamente quantos meses e dias ela já viveu. Considere todos os meses com 30 dias.
+
+Exercício 15 — Consumo de combustível
+
+Um motorista quer descobrir o consumo médio de seu carro. Faça um programa que receba a quantidade de quilômetros percorridos e a quantidade de litros de combustível gastos. Calcule e mostre quantos quilômetros o carro percorreu por litro.
+
+Exercício 16 — Desconto de produto
+
+Uma loja está oferecendo desconto em um produto. Faça um programa que receba o preço original e a porcentagem de desconto. Calcule e mostre o valor do desconto e o preço final do produto.
+
+Exercício 17 — Divisão de uma conta
+
+Quatro amigos foram a um restaurante e querem dividir igualmente o valor da conta. Faça um programa que receba o valor total da conta e mostre quanto cada pessoa deverá pagar.
+
+Depois, faça uma segunda versão considerando uma porcentagem de gorjeta antes da divisão.
+
+Exercício 18 — Verificação de número
+
+Faça um programa que receba um número inteiro e informe se ele é positivo, negativo ou igual a zero.
+
+Utilize if, else if e else.
+
+Exercício 19 — Aprovação do aluno
+
+Uma escola precisa verificar a situação de um aluno. Faça um programa que receba duas notas e calcule a média.
+
+Considere que:
+
+média maior ou igual a 7 → aprovado
+média entre 5 e 6,9 → recuperação
+média menor que 5 → reprovado
+
+Utilize if, else if e else.
+
+Exercício 20 — Caixa eletrônico
+
+Faça um programa que receba um valor inteiro que representa uma quantia de dinheiro e informe quantas notas de 100, 50, 20, 10, 5 e 2 reais seriam necessárias para formar esse valor.
+
+Considere que o valor informado será possível de representar usando essas notas.
+
+Esse exercício exige que você pense em divisão inteira (/) e resto (%) para separar corretamente cada quantidade de notas.

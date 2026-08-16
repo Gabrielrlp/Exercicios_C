@@ -1,5 +1,3 @@
-// Faça um programa que receba três notas de um aluno e calcule e mostre a média aritmética dessas notas.
-
 #include <stdio.h>
 
 int main(){

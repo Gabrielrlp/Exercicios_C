@@ -1,5 +1,3 @@
-// Faça um programa que receba o salário atual de um funcionário, a quantidade de horas extras trabalhadas e o valor pago por cada hora extra. Calcule e mostre o salário final.
-
 #include <stdio.h>
 
 int main(){

@@ -1,5 +1,3 @@
-//Uma pessoa comprou três produtos. Faça um programa que receba a quantidade e o preço de cada produto e calcule o valor total da compra.
-
 #include <stdio.h>
 
 int main(){

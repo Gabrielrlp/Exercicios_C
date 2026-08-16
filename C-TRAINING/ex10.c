@@ -1,10 +1,3 @@
-// Faça um programa que receba a idade de uma pessoa e informe sua classificação:
-
-// De 0 a 12 anos: criança
-// De 13 a 17 anos: adolescente
-// De 18 a 59 anos: adulto
-// 60 anos ou mais: idoso
-
 #include <stdio.h>
 
 int main(){

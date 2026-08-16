@@ -1,5 +1,3 @@
-// Faça um programa que receba dois números inteiros e mostre a soma, a subtração, a multiplicação e a divisão entre eles.
-
 #include <stdio.h>
 
 int main(){

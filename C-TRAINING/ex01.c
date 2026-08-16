@@ -1,5 +1,3 @@
-// Faça um programa que peça ao usuário dois números inteiros e mostre na tela a soma deles.
-
 #include <stdio.h>
 
 int main(){

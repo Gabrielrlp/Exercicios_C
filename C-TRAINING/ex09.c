@@ -1,5 +1,3 @@
-// Faça um programa que receba dois números e informe qual deles é maior. Caso os dois números sejam iguais, informe que eles possuem o mesmo valor.
-
 #include <stdio.h>
 
 int main(){
