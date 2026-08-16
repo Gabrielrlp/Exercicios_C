@@ -11,4 +11,6 @@ void main(){
     
     int c = 3;
     printf("%f", (float)c);
+
+    return 0;
 }

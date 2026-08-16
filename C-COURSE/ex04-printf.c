@@ -41,4 +41,6 @@ void main(){
     const int MAX = 100; // variavel constante é algo que nao podera ser auterado no decorrer do codigo, gerando erro
 
     printf("%i\n", MAX);
+
+    return 0;
 }

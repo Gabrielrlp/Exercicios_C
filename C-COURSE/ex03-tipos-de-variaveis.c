@@ -19,4 +19,6 @@ void main(){
 
     // constante nomeada
     const int MAX = 100; // variavel constante é algo que nao podera ser auterado no decorrer do codigo, gerando erro
+
+    return 0;
 }
